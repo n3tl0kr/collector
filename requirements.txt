@@ -3,3 +3,4 @@ instaloader==4.9
 requests==2.27.1
 prettytable==3.3.0
 folium==0.12.1.post1
+packaging==23.2
